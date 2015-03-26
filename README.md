@@ -1,4 +1,6 @@
-# Intentionally Static: This page will never change.
+# Intentionally Static: this page will never change.
+
+http://lapwinglabs.github.io/static/
 
 ## Motivation
 
